@@ -53,8 +53,10 @@ Fix method: Retry till you success
 on linux using chrome or chromium,Suggested to F11 (Full Screen) because it can reduce the risk causing detection bug
 
 #### instead of this:
-<img width="1366" height="734" alt="image" src="https://github.com/user-attachments/assets/36b52963-8662-45a1-933d-464435d0b843" />
+<img width="1366" height="732" alt="image" src="https://github.com/user-attachments/assets/b38ff7fb-6bae-4430-b9c1-b2b06bd4609f" />
+
 
 
 #### Do this(Click F11):
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6681b1f1-fbbc-4a77-a0b6-7e8ab4e90378" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2e87c17d-48ee-446b-a0e6-442e7c76b5cf" />
+
