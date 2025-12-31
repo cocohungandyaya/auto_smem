@@ -28,6 +28,17 @@ cd 桌面
 cd 桌面
 ./auto_smem_linux_firefox
 ```
+#### For Chinese language system and you use chrome or chromium
+```Terminal Emulator
+cd desktop
+./auto_smem_linux
+```
+#### For Chinese language system and you use firefox
+```Terminal Emulator
+cd desktop
+./auto_smem_linux_firefox
+```
+
 3. make the Terminal Emulator on top of solidmemory page:
 <img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/95a23a6f-2995-4a11-b06a-33b5b88f5ced" />
 
