@@ -2,5 +2,6 @@
 a app to auto do solidmemory.com
 
 ## Newest Version: Beta
-Supported OS: Windows,Linux \n
+Supported OS: Windows,Linux
+
 Supported Browser: Chrome,FireFox
