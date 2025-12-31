@@ -6,7 +6,7 @@ Supported OS: Windows,Linux
 Supported Browser: Chrome,Chromium,Firefox
 
 ### How To Use(Windows):
-1. open the auto_smem EXE file whenever it is
+1. open the auto_smem EXE file wherever it is
 
 2. open solidmemory,login and go to this page:
 <img width="1366" height="732" alt="image" src="https://github.com/user-attachments/assets/37db9eb1-bf74-4396-9530-f41a5335b884" />
