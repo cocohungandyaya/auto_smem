@@ -46,7 +46,7 @@ cd desktop
 4. Press Enter to start the program
 
 ### About Bug Might Happen And How To Fix:
-it might get some bug when run,like can't use clipboard,can't read clipboard and more
+it might get some bug when run which will shutdown the program process,like can't use clipboard,can't read clipboard and more
 
 Fix method: Retry till you success
 
