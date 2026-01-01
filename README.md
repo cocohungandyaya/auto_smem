@@ -33,7 +33,7 @@ Supported Browser: Chrome/Chromium,Firefox
 ### How to Use(Linux):
 1. move the auto_smem ELF file to the desktop
 2. open a Terminal Emulator and do this command:
-3. 
+
 #### For Chinese language system and you use chrome or chromium
 ```
 cd 桌面
