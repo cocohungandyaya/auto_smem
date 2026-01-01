@@ -6,7 +6,7 @@ An Application to auto do [Solidmemory](https://www.solidmemory.com)
 ### Download link for Windows 8-11:
 [Chrome/Chromium](https://github.com/cocohungandyaya/auto_smem/raw/main/auto_smem_release_vbeta/windows/auto_smem.exe)
 
-[Firefox](https://github.com/cocohungandyaya/auto_smem/raw/main/auto_smem_release_vbeta/linux/auto_smem_firefox.exe)
+[Firefox](https://github.com/cocohungandyaya/auto_smem/raw/main/auto_smem_release_vbeta/windows/auto_smem_firefox.exe)
 
 ### Download link for Linux:
 [Chrome/Chromium](https://github.com/cocohungandyaya/auto_smem/raw/main/auto_smem_release_vbeta/linux/auto_smem_linux)
@@ -14,7 +14,7 @@ An Application to auto do [Solidmemory](https://www.solidmemory.com)
 [Firefox](https://github.com/cocohungandyaya/auto_smem/raw/main/auto_smem_release_vbeta/linux/auto_smem_linux_firefox)
 
 ## Newest Version: Beta
-Supported OS: Windows(Windows 7 NOT supported),Linux
+Supported OS: Windows 8-11 ,Linux
 
 Supported Browser: Chrome/Chromium,Firefox
 
