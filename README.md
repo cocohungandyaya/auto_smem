@@ -1,6 +1,8 @@
 # auto_smem
 An Application to auto do [Solidmemory](https://www.solidmemory.com)
 
+## Download link for Linux:
+[Chrome/Chromium)(auto_smem_release_vbeta/linux/auto_smem_linux)
 ## Newest Version: Beta
 Supported OS: Windows(Windows 7 NOT supported),Linux
 
