@@ -2,7 +2,7 @@
 An Application to auto do [Solidmemory](https://www.solidmemory.com)
 
 ## Newest Version: Beta
-Supported OS: Windows,Linux
+Supported OS: Windows(Windows 7 might not support),Linux
 
 Supported Browser: Chrome,Chromium,Firefox
 
