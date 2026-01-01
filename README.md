@@ -3,7 +3,7 @@ An Application to auto do [Solidmemory](https://www.solidmemory.com)
 
 ## All Download Links
 
-### Version Beta
+### Version Beta:
 
 #### Windows 8-11:
 [Chrome/Chromium](https://github.com/cocohungandyaya/auto_smem/raw/main/auto_smem_release_vbeta/windows/auto_smem.exe)
