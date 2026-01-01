@@ -34,24 +34,28 @@ Supported Browser: Chrome/Chromium,Firefox
 1. move the auto_smem ELF file to the desktop
 2. open a Terminal Emulator and do this command:
 #### For Chinese language system and you use chrome or chromium
+
 ```Terminal Emulator
 cd 桌面
 ./auto_smem_linux
 ```
 
 #### For Chinese language system and you use firefox
+
 ```Terminal Emulator
 cd 桌面
 ./auto_smem_linux_firefox
 ```
 
 #### For English language system and you use chrome or chromium
+
 ```Terminal Emulator
 cd desktop
 ./auto_smem_linux
 ```
 
 #### For English language system and you use firefox
+
 ```Terminal Emulator
 cd desktop
 ./auto_smem_linux_firefox
