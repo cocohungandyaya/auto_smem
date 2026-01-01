@@ -53,6 +53,8 @@ Fix method: Retry till you success
 ### Reminder:
 on linux using chrome or chromium,Suggested to F11 (Full Screen) because it can reduce the risk causing detection bug
 
+also after the program start, don't move your mouse or touch your keyboard,it will ruin the process
+
 #### instead of this:
 <img width="1366" height="732" alt="image" src="https://github.com/user-attachments/assets/b38ff7fb-6bae-4430-b9c1-b2b06bd4609f" />
 
