@@ -5,9 +5,9 @@ An Application to auto do [Solidmemory](https://www.solidmemory.com)
 
 ### Version 1:
 
-[Windows 8-11](https://github.com/cocohungandyaya/auto_smem/blob/acd4ab032edeb4c10b4b2d78a85d1d90999512db/auto_smem_release_v1/windows/auto_smem_v1.exe)
+[Windows 8-11](https://github.com/cocohungandyaya/auto_smem/raw/main/auto_smem_release_v1/windows/auto_smem_v1.exe)
 
-[Linux](https://github.com/cocohungandyaya/auto_smem/blob/acd4ab032edeb4c10b4b2d78a85d1d90999512db/auto_smem_release_v1/linux/auto_smem_v1)
+[Linux](https://github.com/cocohungandyaya/auto_smem/raw/main/auto_smem_release_v1/linux/auto_smem_v1)
 
 ### Version Beta:
 
