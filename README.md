@@ -9,6 +9,8 @@ An Application to auto do [Solidmemory](https://www.solidmemory.com)
 
 [Linux](https://github.com/cocohungandyaya/auto_smem/raw/main/auto_smem_release_v1/linux/auto_smem_v1)
 
+Note: if the program quote before opening a chrome page then try again
+
 ### Version Beta:
 
 #### Windows 8-11:
