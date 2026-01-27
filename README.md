@@ -21,7 +21,17 @@ An Application to auto do [Solidmemory](https://www.solidmemory.com)
 
 [Firefox](https://github.com/cocohungandyaya/auto_smem/raw/main/auto_smem_release_vbeta/linux/auto_smem_linux_firefox)
 
-## Newest Version: Beta
+# Newest Version: 1
+
+### How to use:
+
+Open,type your ID and PassWord,And Press the "Next" button after it done to make a solidmemory record
+
+### Feature:
+
+Now it won't force control your pc and it stay silence even you are doing other stuff on your pc
+
+## Version Beta:
 Supported OS: Windows 8-11 ,Linux
 
 Supported Browser: Chrome/Chromium,Firefox
