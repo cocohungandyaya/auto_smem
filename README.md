@@ -7,7 +7,9 @@ An Application to auto do [Solidmemory](https://www.solidmemory.com)
 
 
 
-# EVERYTHING DOWN BELOW WON'T WORK ANYMORE
+# EVERYTHING DOWN BELOW WON'T WORK ANYMORE!!!!!!!!
+
+
 ## All Download Links(OLD)
 
 ### Version 1:
