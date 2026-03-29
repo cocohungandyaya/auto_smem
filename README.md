@@ -9,7 +9,13 @@ An Application to auto do [Solidmemory](https://www.solidmemory.com)
 
 
 ## Actually what i do for eatch update:
+
 v2:i build it and it work
+
 v2.0.1: i forgot actually
+
 v2.0.2:i also forgot
+
 v2.0.3: actually same as v2.0.2 because i fix nothing i am so terrible
+
+v2.0.4: fixed can't auto logout after you use another account
