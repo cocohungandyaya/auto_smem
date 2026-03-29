@@ -3,7 +3,7 @@ An Application to auto do [Solidmemory](https://www.solidmemory.com)
 
 
 ## NEW UPDATE JUST GO CHECK OUT ON THE GITHUB PAGE!!!
-LINK:[auto_smem github page official link:](https://github.com/cocohungandyaya/auto_smem)
+[auto_smem github page official link](https://github.com/cocohungandyaya/auto_smem)
 
 
 
