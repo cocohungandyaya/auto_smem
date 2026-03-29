@@ -1,7 +1,14 @@
 # auto_smem
 An Application to auto do [Solidmemory](https://www.solidmemory.com)
 
-## All Download Links
+
+## NEW UPDATE JUST GO CHECK OUT ON THE GITHUB PAGE!!!
+LINK:[auto_smem github page official link:](https://github.com/cocohungandyaya/auto_smem)
+
+
+
+# EVERYTHING DOWN BELOW WON'T WORK ANYMORE
+## All Download Links(OLD)
 
 ### Version 1:
 
