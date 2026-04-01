@@ -19,3 +19,7 @@ v2.0.2:i also forgot
 v2.0.3: actually same as v2.0.2 because i fix nothing i am so terrible
 
 v2.0.4: fixed can't auto logout after you use another account
+
+
+## Demonstration video:
+[Demonstration video](https://youtu.be/qlCfQGVJCAo)
