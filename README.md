@@ -23,3 +23,8 @@ v2.0.4: fixed can't auto logout after you use another account
 
 ## Demonstration video:
 [Demonstration video](https://youtu.be/qlCfQGVJCAo)
+
+
+
+## Reminders!!!
+it might take 3-4 attempt to success unless you are ROY!!!
