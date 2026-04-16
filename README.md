@@ -8,7 +8,7 @@ An Application to auto do [Solidmemory](https://www.solidmemory.com)
 
 
 
-## Actually what i do for eatch update:
+## Actually what i do for each update:
 
 v2:i build it and it work
 
